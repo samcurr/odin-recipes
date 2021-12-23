@@ -1,1 +1,4 @@
 # odin-recipes
+In this project, what I learned the most is that file directory and organization is important because I ended up having to relate to links in other folders over and over. I found that shortened but descriptive names are helpful. 
+This will sound real stupid later but another thing I learned is that by creating a repository in GitHub and git clone it to my client, it's the same as mkdir essentially but it allows it to be linked with GitHub to allow for adds, commits, and pushes. 
+I added a little link at the end of the recipe pages for me. It wasn't part of the recipe but I was thinking about something I would want if I was visiting this site for these recipes. I published it to GitHub but I see no point in contributing it to the discord or uploading it at all since I'm so fresh. When I finally feel comfortable, I will contribute. Promise. 

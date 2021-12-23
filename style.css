@@ -1,0 +1,19 @@
+.heading {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+}
+
+.list-title {
+    text-align: center;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+
+#recipe-links {
+    color: blue;
+    font-size: 14px;
+    font-weight: 700;
+}
